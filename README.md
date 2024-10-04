@@ -1,3 +1,3 @@
 ## Let's get takeout!
 
-Project in intermediate Java course.
+Intermediate Java course. Project about generics.
